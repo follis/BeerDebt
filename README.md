@@ -25,3 +25,7 @@ If Fred owes Bob a beer and Bob owes Ian a beer, having Fred buy Ian a beer does
 ## Beer Debt Transfer
 
 Suppose Fred once again owes Bob a beer.  But Fred never actually sees Bob.  However, Ian frequently sees them both.  It is acceptable for Fred to buy Ian a beer with the understanding that Ian will, in the future, buy Bob a beer, thus completing the payment of the debt.  This is only allowed when all three parties are in agreement about the transfer.  
+
+## Statute Barred Beer Debt
+
+Beer has no statute of limitations. For example, a beer debt incurred as part of a working relationship is not cancelled merely because one of the parties retires. Some jursidictions legally require debtees to attend retirement drinks to ensure all transactions are able to complete properly.
